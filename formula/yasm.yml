@@ -1,0 +1,5 @@
+summary: Yet another assembler, a complete reimplementation of NASM
+webpage: https://yasm.tortall.net
+version: 1.3.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64/releases/download/2025.07.25/yasm-1.3.0-netbsd-10.0-amd64.release.tar.xz 
+bin-sha: ddfce3d3006b9737d752ddb14e77490dbe677c0b81f0bfea25d8b77e23893277

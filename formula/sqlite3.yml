@@ -1,0 +1,5 @@
+summary: A command-line tool for interacting with SQLite databases
+webpage: https://sqlite.org/
+version: 3.49.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64/releases/download/2025.07.25/sqlite3-3.49.1-netbsd-10.0-amd64.release.tar.xz 
+bin-sha: 3c3414543e4c802576f2cae017f2d2d09625490e88d68e3a09c6ec964d3348cc

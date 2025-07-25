@@ -1,0 +1,5 @@
+summary: Classic UNIX line editor
+webpage: https://www.gnu.org/software/ed/ed.html
+version: 1.20.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64/releases/download/2025.07.25/ed-1.20.1-netbsd-10.0-amd64.release.tar.xz 
+bin-sha: 5c1c96ba43c4c47ab6e9c419b4580c3b8f57f4327648afc400914702cd0ea904

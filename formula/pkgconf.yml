@@ -1,0 +1,5 @@
+summary: Reimplementation of pkg-config
+webpage: http://pkgconf.org
+version: 2.3.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64/releases/download/2025.07.25/pkgconf-2.3.0-netbsd-10.0-amd64.release.tar.xz 
+bin-sha: 0ce75ca46d87ca7ec3e07c06c8f36fe731a47ead85cc790af7e1b2b0567aacc5
