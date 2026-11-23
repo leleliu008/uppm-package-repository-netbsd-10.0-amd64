@@ -1,5 +1,5 @@
 summary: A command-line tool for generating documentation from annotated programming language source files
 webpage: https://www.doxygen.nl/
-version: 1.10.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64/releases/download/2025.07.25/doxygen-1.10.0-netbsd-10.0-amd64.release.tar.xz 
-bin-sha: 50934eb7ce006b12de0a3efbbe22aab2be581eae4ef40691f47c59072633bc57
+version: 1.18.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64/releases/download/2026.11.23/doxygen-1.18.0-netbsd-10.0-amd64.release.tar.xz 
+bin-sha: b9c4b0a5d083d5d48772670c9db8ec3ba132ec68f8f7987be612bf473a8a6bf6

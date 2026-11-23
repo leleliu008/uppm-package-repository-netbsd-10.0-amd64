@@ -1,5 +1,5 @@
-summary: Utility that provides fast incremental file transfer
+summary: A command-line tool for synchronizing files
 webpage: https://rsync.samba.org/
-version: 3.4.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64/releases/download/2025.07.25/rsync-3.4.1-netbsd-10.0-amd64.release.tar.xz 
-bin-sha: 7407ffdc30cf09c4a23f4fb3a054ae088594491b748721af23d5e563ead87331
+version: 3.5.2 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64/releases/download/2026.11.23/rsync-3.5.2-netbsd-10.0-amd64.release.tar.xz 
+bin-sha: 2ae4c4b16f2469fa5ae505d4bac534ef223ec14d0db7d71fda5579458b46ed55

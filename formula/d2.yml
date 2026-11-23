@@ -1,5 +1,5 @@
 summary: A modern diagram scripting language that turns text to diagrams
-webpage: https://github.com/terrastruct/d2
-version: 0.7.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64/releases/download/2025.07.25/d2-0.7.0-netbsd-10.0-amd64.release.tar.xz 
-bin-sha: 2a8865564e3b4edd94d23e7befa46b6e0996bba4418f5d82f6bdc15269d3498b
+webpage: https://github.com/d2lang/d2
+version: 0.9.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64/releases/download/2026.11.23/d2-0.9.0-netbsd-10.0-amd64.release.tar.xz 
+bin-sha: 754720dd03445e8841ae554f0392bb140940a6ed3bde45ba6f597e6cb942cb9f

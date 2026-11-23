@@ -1,5 +1,5 @@
-summary: Collection of GNU find, xargs, and locate
+summary: A package of several programs related to finding files
 webpage: https://www.gnu.org/software/findutils
-version: 4.9.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64/releases/download/2025.07.25/findutils-4.9.0-netbsd-10.0-amd64.release.tar.xz 
-bin-sha: 938412f31fb5b151dc3024b9c51b22abbfa7e889dca037e101658a0b16ec65af
+version: 4.11.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64/releases/download/2026.11.23/findutils-4.11.0-netbsd-10.0-amd64.release.tar.xz 
+bin-sha: a66dd7a57a562637a26bc03ec7dac8e7165a11f37f7655813abacd5b71207cb3
